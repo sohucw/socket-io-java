@@ -1,0 +1,25 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+#Log files
+*.log.*
+*.log
+
+.classpath
+.project
+.settings/
+
+dependency-reduced-pom.xml
+
+#Compile target
+target/
+
+.DS_Store
+.idea/
+
+client/assets/
+client/index.htm
